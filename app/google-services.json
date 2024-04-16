@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1000232900333",
+    "firebase_url": "https://tourapp-c3159-default-rtdb.firebaseio.com",
+    "project_id": "tourapp-c3159",
+    "storage_bucket": "tourapp-c3159.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000232900333:android:b689f9a8bdcc95dcbc9ee4",
+        "android_client_info": {
+          "package_name": "com.example.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000232900333-3dv3a21bcoal43vgnmo3h8giif7cu29i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIGPu2LWxUWIzZLXobb_l0AvyD27-bLs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000232900333-3dv3a21bcoal43vgnmo3h8giif7cu29i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000232900333:android:a6221756881f31b0bc9ee4",
+        "android_client_info": {
+          "package_name": "com.example.chapapayment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000232900333-3dv3a21bcoal43vgnmo3h8giif7cu29i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIGPu2LWxUWIzZLXobb_l0AvyD27-bLs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000232900333-3dv3a21bcoal43vgnmo3h8giif7cu29i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000232900333:android:3b2d36db5d0fff9cbc9ee4",
+        "android_client_info": {
+          "package_name": "com.project.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000232900333-3dv3a21bcoal43vgnmo3h8giif7cu29i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIGPu2LWxUWIzZLXobb_l0AvyD27-bLs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000232900333-3dv3a21bcoal43vgnmo3h8giif7cu29i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
